@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Страница — 1" id="2z9YlmGzIrOjie0QyuiV">
-    <mxGraphModel dx="1400" dy="1865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2625" dy="2474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,13 +134,16 @@
           <mxGeometry x="590" y="80" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OShW3Rb2TY1rtvR5UoOf-44" value="" style="image;html=1;image=img/lib/clip_art/computers/Stylus_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="760" width="80" height="80" as="geometry" />
+          <mxGeometry x="1460" y="-60" width="443" height="580" as="geometry" />
         </mxCell>
         <mxCell id="OShW3Rb2TY1rtvR5UoOf-45" value="" style="image;html=1;image=img/lib/clip_art/computers/Printer_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="655" y="-140" width="290" height="250" as="geometry" />
+          <mxGeometry x="1060" y="180" width="1120" height="850" as="geometry" />
         </mxCell>
         <mxCell id="OShW3Rb2TY1rtvR5UoOf-46" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_Add_128x128.png" vertex="1" parent="1">
           <mxGeometry x="540" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OShW3Rb2TY1rtvR5UoOf-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OShW3Rb2TY1rtvR5UoOf-47" target="OShW3Rb2TY1rtvR5UoOf-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OShW3Rb2TY1rtvR5UoOf-47" value="" style="image;html=1;image=img/lib/clip_art/computers/iMac_128x128.png" vertex="1" parent="1">
           <mxGeometry x="720" y="-130" width="80" height="80" as="geometry" />
